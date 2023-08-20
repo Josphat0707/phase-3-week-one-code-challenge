@@ -13,3 +13,9 @@
     In my code i have defined the function converting_to_24hr_time and gave it three values , that is the hour, minute and period. I went ahead and wrote an if statement since the hour and minute values had conditions attached to them(range). Thats that, the other part of challenge1.py is self explanatory. 
 
 ### Challenge 2(challenge2.py)
+    in the second challenge, we are to write a function that takes in three integers (a,b and c) then returns trrue if two of the three integers are positive numbers and greater than zero otherwise it returns 0. 
+
+    In my solution i used the if statement so as to get to the final bit though i would have used the conditional expression but i havent grasped it yet.
+
+### Challenge 3(challenge3.py)
+    
