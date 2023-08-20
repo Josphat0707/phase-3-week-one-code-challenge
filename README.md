@@ -18,7 +18,7 @@
     In my solution i used the if statement so as to get to the final bit though i would have used the conditional expression but i havent grasped it yet.
 
 ### Challenge 3(challenge3.py)
-
+    Am a bit stuck! :)
 
 ## Technologies Used
 
