@@ -9,4 +9,4 @@ def converting_to_24hr_time(hour, minute, period):
 
     return f"{hour_in_24hr_system:02d}{minute:02d} hrs"
 
-print(converting_to_24hr_time(12, 15, "am"))
+print(converting_to_24hr_time(1, 40, "am"))

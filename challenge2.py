@@ -7,4 +7,4 @@ def my_function(a, b, c):
         return True
     else: return False
 
-print(my_function(-14, -3, -4))
+print(my_function(14, 3, -4))
